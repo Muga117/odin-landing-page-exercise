@@ -1,7 +1,8 @@
 body{
     font-family: "Roboto";
 }
-.hero{
+.hero,
+.footer{
     background-color: #1F2937;
 }
 
@@ -49,3 +50,24 @@ ul{
     background-color: #E5E7EB;
 }
 
+.section-two{
+    text-align: center;
+}
+
+.container{
+    border-radius: 10px;
+    border: 2px solid #3882F6;
+    width: 100px;
+    height: 100px;
+}
+
+.information-images {
+    display: flex;
+}
+
+.image{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+}
