@@ -1,6 +1,8 @@
 body{
     font-family: "Roboto";
+    margin: 0;
 }
+
 .hero,
 .footer{
     background-color: #1F2937;
